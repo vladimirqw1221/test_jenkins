@@ -1,0 +1,9 @@
+Start test
+Получаем путь к https://www.saucedemo.com/
+ Имя пользователя введено
+Пароль введен
+Кнопка нажата 
+ Проверка ключевого слова  пройдена  
+Скриншот добавлен
+Получаем путь к https://www.saucedemo.com/inventory.html
+Finish test

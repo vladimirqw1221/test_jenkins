@@ -1,0 +1,22 @@
+
+-----
+Test: tests/test_demo.py::test_demo_swag (call)
+Start time: 2022-10-29 11:32:18.721866
+Start name method: autorez_met
+
+End time: 2022-10-29 11:32:19.951524
+End name method: autorez_met
+URL: None
+
+-----
+
+-----
+Test: tests/test_demo_2.py::test_demo_swag (call)
+Start time: 2022-10-29 11:32:26.491359
+Start name method: autorez_met
+
+End time: 2022-10-29 11:32:27.553548
+End name method: autorez_met
+URL: None
+
+-----
