@@ -6,14 +6,15 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 
 from pages.autorization import Login
+from pages.negativ_autorization import Negativ
 
 
 def test_demo_swag(set_up):
     driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
 
-    a = Login(driver)
-    a.autorez_met()
+    n = Negativ(driver)
+    n.negativ_test_case()
 
     time.sleep(5)
 
